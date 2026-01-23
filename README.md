@@ -1,2 +1,2 @@
-# C
-Practice projects in C
+# Practice Projects
+Practice coding projects in various languages.
