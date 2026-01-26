@@ -1,0 +1,15 @@
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Rolling-Dice\bin\Debug\net10.0\Rolling-Dice.exe
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Rolling-Dice\bin\Debug\net10.0\Rolling-Dice.deps.json
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Rolling-Dice\bin\Debug\net10.0\Rolling-Dice.runtimeconfig.json
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Rolling-Dice\bin\Debug\net10.0\Rolling-Dice.dll
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Rolling-Dice\bin\Debug\net10.0\Rolling-Dice.pdb
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Rolling-Dice\obj\Debug\net10.0\Rolling-Dice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Rolling-Dice\obj\Debug\net10.0\Rolling-Dice.AssemblyInfoInputs.cache
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Rolling-Dice\obj\Debug\net10.0\Rolling-Dice.AssemblyInfo.cs
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Rolling-Dice\obj\Debug\net10.0\Rolling-Dice.csproj.CoreCompileInputs.cache
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Rolling-Dice\obj\Debug\net10.0\Rolling-Dice.sourcelink.json
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Rolling-Dice\obj\Debug\net10.0\Rolling-Dice.dll
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Rolling-Dice\obj\Debug\net10.0\refint\Rolling-Dice.dll
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Rolling-Dice\obj\Debug\net10.0\Rolling-Dice.pdb
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Rolling-Dice\obj\Debug\net10.0\Rolling-Dice.genruntimeconfig.cache
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Rolling-Dice\obj\Debug\net10.0\ref\Rolling-Dice.dll
