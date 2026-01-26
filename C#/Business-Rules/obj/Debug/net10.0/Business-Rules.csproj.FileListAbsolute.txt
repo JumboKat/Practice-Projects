@@ -1,0 +1,15 @@
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Business-Rules\bin\Debug\net10.0\Business-Rules.exe
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Business-Rules\bin\Debug\net10.0\Business-Rules.deps.json
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Business-Rules\bin\Debug\net10.0\Business-Rules.runtimeconfig.json
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Business-Rules\bin\Debug\net10.0\Business-Rules.dll
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Business-Rules\bin\Debug\net10.0\Business-Rules.pdb
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Business-Rules\obj\Debug\net10.0\Business-Rules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Business-Rules\obj\Debug\net10.0\Business-Rules.AssemblyInfoInputs.cache
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Business-Rules\obj\Debug\net10.0\Business-Rules.AssemblyInfo.cs
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Business-Rules\obj\Debug\net10.0\Business-Rules.csproj.CoreCompileInputs.cache
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Business-Rules\obj\Debug\net10.0\Business-Rules.sourcelink.json
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Business-Rules\obj\Debug\net10.0\Business-Rules.dll
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Business-Rules\obj\Debug\net10.0\refint\Business-Rules.dll
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Business-Rules\obj\Debug\net10.0\Business-Rules.pdb
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Business-Rules\obj\Debug\net10.0\Business-Rules.genruntimeconfig.cache
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Business-Rules\obj\Debug\net10.0\ref\Business-Rules.dll
