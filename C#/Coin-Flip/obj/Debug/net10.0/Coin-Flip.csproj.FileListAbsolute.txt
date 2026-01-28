@@ -1,0 +1,15 @@
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Coin-Flip\obj\Debug\net10.0\Coin-Flip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Coin-Flip\obj\Debug\net10.0\Coin-Flip.AssemblyInfoInputs.cache
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Coin-Flip\obj\Debug\net10.0\Coin-Flip.AssemblyInfo.cs
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Coin-Flip\obj\Debug\net10.0\Coin-Flip.csproj.CoreCompileInputs.cache
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Coin-Flip\obj\Debug\net10.0\Coin-Flip.sourcelink.json
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Coin-Flip\bin\Debug\net10.0\Coin-Flip.exe
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Coin-Flip\bin\Debug\net10.0\Coin-Flip.deps.json
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Coin-Flip\bin\Debug\net10.0\Coin-Flip.runtimeconfig.json
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Coin-Flip\bin\Debug\net10.0\Coin-Flip.dll
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Coin-Flip\bin\Debug\net10.0\Coin-Flip.pdb
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Coin-Flip\obj\Debug\net10.0\Coin-Flip.dll
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Coin-Flip\obj\Debug\net10.0\refint\Coin-Flip.dll
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Coin-Flip\obj\Debug\net10.0\Coin-Flip.pdb
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Coin-Flip\obj\Debug\net10.0\Coin-Flip.genruntimeconfig.cache
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Coin-Flip\obj\Debug\net10.0\ref\Coin-Flip.dll
