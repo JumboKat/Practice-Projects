@@ -1,0 +1,15 @@
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Convert-to-Switch-Statements\bin\Debug\net10.0\Convert-to-Switch-Statements.exe
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Convert-to-Switch-Statements\bin\Debug\net10.0\Convert-to-Switch-Statements.deps.json
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Convert-to-Switch-Statements\bin\Debug\net10.0\Convert-to-Switch-Statements.runtimeconfig.json
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Convert-to-Switch-Statements\bin\Debug\net10.0\Convert-to-Switch-Statements.dll
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Convert-to-Switch-Statements\bin\Debug\net10.0\Convert-to-Switch-Statements.pdb
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Convert-to-Switch-Statements\obj\Debug\net10.0\Convert-to-Switch-Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Convert-to-Switch-Statements\obj\Debug\net10.0\Convert-to-Switch-Statements.AssemblyInfoInputs.cache
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Convert-to-Switch-Statements\obj\Debug\net10.0\Convert-to-Switch-Statements.AssemblyInfo.cs
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Convert-to-Switch-Statements\obj\Debug\net10.0\Convert-to-Switch-Statements.csproj.CoreCompileInputs.cache
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Convert-to-Switch-Statements\obj\Debug\net10.0\Convert-to-Switch-Statements.sourcelink.json
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Convert-to-Switch-Statements\obj\Debug\net10.0\Convert-to-Switch-Statements.dll
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Convert-to-Switch-Statements\obj\Debug\net10.0\refint\Convert-to-Switch-Statements.dll
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Convert-to-Switch-Statements\obj\Debug\net10.0\Convert-to-Switch-Statements.pdb
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Convert-to-Switch-Statements\obj\Debug\net10.0\Convert-to-Switch-Statements.genruntimeconfig.cache
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Convert-to-Switch-Statements\obj\Debug\net10.0\ref\Convert-to-Switch-Statements.dll
