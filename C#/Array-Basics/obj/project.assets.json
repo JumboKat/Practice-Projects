@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jumbo\\.nuget\\packages\\": {}
+    "C:\\Users\\Keith\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jumbo\\Desktop\\Repos\\Practice-Projects\\C#\\Array-Basics\\Array-Basics.csproj",
+      "projectUniqueName": "C:\\Users\\Keith\\Work\\Projects\\Repositories\\Practice-Projects\\C#\\Array-Basics\\Array-Basics.csproj",
       "projectName": "Array-Basics",
-      "projectPath": "C:\\Users\\jumbo\\Desktop\\Repos\\Practice-Projects\\C#\\Array-Basics\\Array-Basics.csproj",
-      "packagesPath": "C:\\Users\\jumbo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jumbo\\Desktop\\Repos\\Practice-Projects\\C#\\Array-Basics\\obj\\",
+      "projectPath": "C:\\Users\\Keith\\Work\\Projects\\Repositories\\Practice-Projects\\C#\\Array-Basics\\Array-Basics.csproj",
+      "packagesPath": "C:\\Users\\Keith\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Keith\\Work\\Projects\\Repositories\\Practice-Projects\\C#\\Array-Basics\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jumbo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Keith\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
