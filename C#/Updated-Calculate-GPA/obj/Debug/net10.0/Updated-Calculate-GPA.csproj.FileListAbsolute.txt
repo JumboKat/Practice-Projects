@@ -1,0 +1,15 @@
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Updated-Calculate-GPA\bin\Debug\net10.0\Updated-Calculate-GPA.exe
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Updated-Calculate-GPA\bin\Debug\net10.0\Updated-Calculate-GPA.deps.json
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Updated-Calculate-GPA\bin\Debug\net10.0\Updated-Calculate-GPA.runtimeconfig.json
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Updated-Calculate-GPA\bin\Debug\net10.0\Updated-Calculate-GPA.dll
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Updated-Calculate-GPA\bin\Debug\net10.0\Updated-Calculate-GPA.pdb
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Updated-Calculate-GPA\obj\Debug\net10.0\Updated-Calculate-GPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Updated-Calculate-GPA\obj\Debug\net10.0\Updated-Calculate-GPA.AssemblyInfoInputs.cache
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Updated-Calculate-GPA\obj\Debug\net10.0\Updated-Calculate-GPA.AssemblyInfo.cs
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Updated-Calculate-GPA\obj\Debug\net10.0\Updated-Calculate-GPA.csproj.CoreCompileInputs.cache
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Updated-Calculate-GPA\obj\Debug\net10.0\Updated-Calculate-GPA.sourcelink.json
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Updated-Calculate-GPA\obj\Debug\net10.0\Updated-Calculate-GPA.dll
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Updated-Calculate-GPA\obj\Debug\net10.0\refint\Updated-Calculate-GPA.dll
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Updated-Calculate-GPA\obj\Debug\net10.0\Updated-Calculate-GPA.pdb
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Updated-Calculate-GPA\obj\Debug\net10.0\Updated-Calculate-GPA.genruntimeconfig.cache
+C:\Users\Keith\Work\Projects\Repositories\Practice-Projects\C#\Updated-Calculate-GPA\obj\Debug\net10.0\ref\Updated-Calculate-GPA.dll
