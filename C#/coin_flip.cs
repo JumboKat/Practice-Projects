@@ -4,4 +4,4 @@ In this challenge, you'll implement a conditional operator to simulate a "coin f
 
 Random random = new Random();
 
-Console.WriteLine($"{(random.Next(1, 3)==1 ? "heads" : "tails")}");
+Console.WriteLine($"{(random.Next(1, 3)==1 ? "heads" : "tails")}"); 
